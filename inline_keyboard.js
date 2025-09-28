@@ -40,3 +40,4 @@ bot.on("callback_query", (query) => {
         bot.sendMessage(chatId, "Ushbu bot 'JavaScript'ni qisman tushunadigan dasturchi tomonidan yaratilgan");
     }
 });
+
